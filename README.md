@@ -1,6 +1,6 @@
 ***Interactive CLI tool for DNS diagnostics (A/AAAA, PTR, NS) written in Go.***
 
-## Installation Guide
+## Installation Guide/ // Minimal Go 1.27.1 
 1. git clone https://github.com/Kis44KaPjj/DnsTool.git
 2. cd DnsTool
 3. go build -ldflags="-X main.version=0.2.2" -o dnstool
